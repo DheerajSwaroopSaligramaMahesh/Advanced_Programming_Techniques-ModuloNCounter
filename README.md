@@ -38,12 +38,12 @@ It supports different counting bases (2, 8, 10, 16) and provides both **pre-incr
 2. Run the generated executable.
 
 3. Enter parameters when prompted:
-   - Number of digits (e.g., 3)
-   - Counter base (choose from 2, 8, 10, 16)
-   - Count limit (e.g., 50)
+   - Number of digits (e.g., `3`)
+   - Counter base (choose from `2`, `8`, `10`, `16`)
+   - Count limit (e.g., `50`)
 
 4. View the output of the counter values, formatted according to the base.
 
-5. At the end of execution, observe demonstrations of pre-increment (++counter) and post-increment (counter++) operations.
+5. At the end of execution, observe demonstrations of **pre-increment (`++counter`)** and **post-increment (`counter++`)** operations.
 
 
