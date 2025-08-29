@@ -29,3 +29,21 @@ It supports different counting bases (2, 8, 10, 16) and provides both **pre-incr
 ├── ModuloNCounter.cpp # Implementation of ModuloNCounter<br>
 ├── MultipleDigitCounter.h # Header file for multi-digit counter<br>
 ├── MultipleDigitCounter.cpp # Implementation of MultipleDigitCounter<br>
+
+## How to Run
+
+1. **Compile** the provided source files with a C++ compiler:  
+   [Source Code Link](./)
+
+2. Run the generated executable.
+
+3. Enter parameters when prompted:
+   - Number of digits (e.g., 3)
+   - Counter base (choose from 2, 8, 10, 16)
+   - Count limit (e.g., 50)
+
+4. View the output of the counter values, formatted according to the base.
+
+5. At the end of execution, observe demonstrations of pre-increment (++counter) and post-increment (counter++) operations.
+
+
