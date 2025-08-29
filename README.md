@@ -24,7 +24,7 @@ It supports different counting bases (2, 8, 10, 16) and provides both **pre-incr
 ---
 
 ## Project Structure
-├── main.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Entry point, user input, and demo<br>
+├── main.cpp &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # Entry point, user input, and demo<br>
 ├── ModuloNCounter.h&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Header file for single digit counter<br>
 ├── ModuloNCounter.cpp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Implementation of ModuloNCounter<br>
 ├── MultipleDigitCounter.h &nbsp;&nbsp;&nbsp;&nbsp;# Header file for multi-digit counter<br>
